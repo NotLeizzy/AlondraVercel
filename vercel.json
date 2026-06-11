@@ -1,15 +1,5 @@
 {
   "buildCommand": "",
   "outputDirectory": ".",
-  "cleanUrls": true,
-  "routes": [
-    {
-      "src": "/",
-      "dest": "/Main.html"
-    },
-    {
-      "src": "/(.+)",
-      "dest": "/Main.html"
-    }
-  ]
+  "cleanUrls": true
 }
