@@ -1,0 +1,12 @@
+{
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "framework": "static",
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/Main.html"
+    }
+  ]
+}
